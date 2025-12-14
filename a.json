@@ -10,7 +10,15 @@
       "volume": "",
       "last_updated": "1765730487",
       "groups": {
-        "": "https://nhentai.net/g/615072/"
+        "": "proxy/nhentai/615072/"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1765730587",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/d699cc2f-b733-491a-ba88-a59194ae1b3c"
       }
     }
   }
